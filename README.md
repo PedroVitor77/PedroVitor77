@@ -23,7 +23,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 Analista de Sistemas <b>Maringa-Pr</b> 」
     <br>
