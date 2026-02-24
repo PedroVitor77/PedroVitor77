@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <p align="center">
-  <a href="https://github.com/PedroVitor77"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back%20End%20Developer;Sempre%20Aprendendo&center=true&width=380&height=45"></a>
+  <a href="https://github.com/PedroVitor77"><img src="https://readme-typing-svg.herokuapp.com/?lines=Anlista%20de%20Dados;Sempre%20Aprendendo&center=true&width=380&height=45"></a>
 </p>
 
 
