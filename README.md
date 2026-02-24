@@ -24,7 +24,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Analista de Sistemas <b>Maringa-Pr</b> 」
+    「 Analista de Dados <b>Maringa-Pr</b> 」
     <br>
     <br>
   </samp>
