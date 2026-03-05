@@ -50,7 +50,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Sempre Buscando aprender <br/><br/>
- ❤️ &emsp; Gosto de Escrever Codigos<br/><br/>
+ 💼 &emsp; Atualmente na empresa MentorsTec<br/><br/>
  📧 &emsp; e-mail: pedrovitordev.contato@gmail.com<br/><br/>
  💬 &emsp; Me faça uma pergunta [here](https://github.com/PedroVitor77/PedroVitor77/issues)
 
